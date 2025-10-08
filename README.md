@@ -2,42 +2,45 @@
 
 👋 Hola, soy **Esneyder Rojas**, Ingeniero de Sistemas de Bogotá, Colombia.  
 Apasionado por la **ciberseguridad práctica**, la **implementación de controles técnicos**, el **análisis de vulnerabilidades** y la **detección de amenazas**.  
-Me gusta experimentar, investigar y construir laboratorios reales donde se integren la defensa (Blue Team) y la ofensiva (Pentesting).
+Disfruto implementar, investigar y experimentar con entornos reales para fortalecer mis habilidades en **seguridad ofensiva y defensiva**.
 
 ---
 
 ## 🚀 Perfil Profesional
 
-- Ingeniero de Sistemas con formación en **Gestión de Redes de Datos** y en curso de **Especialización en Seguridad Informática**.  
-- Experiencia en **infraestructura tecnológica**, **servidores Windows/Linux**, **redes**, **virtualización**, **respaldos**, **monitoreo** y **ciberseguridad corporativa**.  
-- Implementación y administración de soluciones como **Wazuh (SIEM)**, **Fortinet**, **pfSense**, **Kaspersky**, **ESET**, **PRTG**, **Zabbix**, **ntopng** y **Suricata**.  
-- Participación en proyectos de **gestión de vulnerabilidades**, **hardening**, **respaldo y recuperación**, **control de accesos**, y **planes de continuidad del negocio**.  
-- Conocimientos en **ISO/IEC 27001**, **SGSI**, **seguridad en la nube (AWS)** y **campañas de concienciación (Gophish)**.
+Ingeniero de Sistemas con formación en **Gestión de Redes de Datos** y cursando **Especialización en Seguridad Informática**.  
+Cuento con experiencia en:
+
+- **Infraestructura tecnológica y redes:** servidores Windows/Linux, virtualización, respaldos, DNS, VPN, y firewalls.  
+- **Ciberseguridad corporativa:** administración de **Wazuh (SIEM)**, **Fortinet**, **pfSense**, **Kaspersky**, **ESET**, **PRTG**, **Zabbix**, **ntopng** y **Suricata**.  
+- **Gestión de vulnerabilidades:** con **Nessus** y **Metasploit Framework**, apoyando procesos de auditoría técnica y hardening.  
+- **Normativas y SGSI:** implementación de políticas alineadas con **ISO/IEC 27001**, control de accesos, continuidad del negocio y respaldos.  
+- **Cloud Security:** administración segura de entornos **AWS**, políticas IAM, y monitoreo con GuardDuty y CloudTrail.  
 
 ---
 
-## 🧠 Áreas de especialidad
+## 🧠 Áreas de Especialidad
 
 | Área | Enfoque |
 |------|----------|
-| 🧩 Pentesting | Pruebas de intrusión básicas con Metasploit, Nessus y entornos DVWA. |
-| 🛡️ Blue Team | Monitoreo, correlación y respuesta de incidentes con Wazuh / SIEM. |
-| ☁️ Cloud Security | Configuración segura en AWS, gestión IAM, GuardDuty, CloudTrail. |
-| 🧰 Infraestructura | Administración Windows Server, Linux, Hyper-V, pfSense, Fortinet. |
-| 🧾 Normativas | ISO 27001, SGSI, políticas de acceso y continuidad del negocio. |
+| 🔹 **Pentesting** | Pruebas de intrusión controladas (red, web, AD) con Metasploit, Nessus y DVWA. |
+| 🔹 **Blue Team** | Detección y respuesta a incidentes con Wazuh / SIEM, hardening y correlación de eventos. |
+| 🔹 **Análisis de Vulnerabilidades** | Identificación, evaluación y remediación de vulnerabilidades técnicas. |
+| 🔹 **Cloud Security** | Buenas prácticas y monitoreo en AWS, integración con Wazuh y Suricata. |
+| 🔹 **Infraestructura Segura** | Administración y protección de entornos híbridos on-premise / nube. |
 
 ---
 
-## ⚙️ Stack técnico
+## ⚙️ Stack Técnico
 
 **Seguridad y Monitoreo:**  
-Wazuh, Suricata, PRTG, Zabbix, ntopng, Fortinet, pfSense.  
+Wazuh, Suricata, Fortinet, pfSense, PRTG, Zabbix, ntopng, ELK Stack.  
 
 **Ofensiva y Análisis:**  
-Nessus, Metasploit, Burp Suite, Gophish, Nmap, Nikto.  
+Metasploit Framework, Nessus, Burp Suite, Gophish, Nmap, Nikto.  
 
 **Infraestructura:**  
-Windows Server 2016/2019, Ubuntu, Debian, Hyper-V, VMware, TrueNAS.  
+Windows Server 2016/2019, Ubuntu, Debian, Hyper-V, VMware, TrueNAS, Duplicati.  
 
 **Automatización y scripting:**  
 PowerShell, Bash.  
@@ -46,50 +49,64 @@ PowerShell, Bash.
 AWS (EC2, IAM, S3, GuardDuty, CloudTrail).  
 
 **Normas y gestión:**  
-ISO/IEC 27001, políticas SGSI, continuidad del negocio.  
+ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.  
 
 ---
 
-## 🧩 Proyectos personales y laboratorios
+## 🧩 Proyectos y Laboratorios Destacados
 
-- **🔸 Wazuh SIEM Implementation:**  
-  Instalación y configuración desde cero, integración de agentes Linux/Windows, creación de reglas personalizadas y alertas.  
+- **🧱 Implementación Wazuh SIEM:**  
+  Instalación desde cero, integración de agentes Linux/Windows, reglas personalizadas y reportes de seguridad.  
 
-- **🔸 DVWA Pentesting Lab:**  
-  Pruebas de SQLi, XSS y fuerza bruta en entorno controlado con documentación y mitigaciones.  
+- **💻 DVWA Pentesting Lab:**  
+  Laboratorio de explotación controlada (SQLi, XSS, brute force) con documentación de hallazgos y mitigaciones.  
 
-- **🔸 AWS Secure Lab:**  
-  Infraestructura segura en AWS con Terraform, implementación de monitoreo con Wazuh y GuardDuty.  
+- **☁️ AWS Secure Lab:**  
+  Despliegue de infraestructura segura en AWS con Terraform, monitoreo con GuardDuty y Wazuh.  
 
-- **🔸 Backup & Recovery Plan:**  
-  Estrategias de respaldo automatizado con TrueNAS, Duplicati y verificación de integridad.
+- **🔒 Backup & Recovery Plan:**  
+  Automatización de respaldos y pruebas de restauración con TrueNAS y Duplicati.
 
 ---
 
 ## 🎓 Formación Académica y Certificaciones
 
 **Formación:**  
-- 🎓 Ingeniería de Sistemas — Fundación Universitaria del Área Andina (2024).  
-- 📡 Tecnólogo en Gestión de Redes de Datos — SENA (2018).  
-- 🔐 Especialización en Seguridad Informática — UNIR (en curso).  
+- 🎓 **Ingeniería de Sistemas** — Fundación Universitaria del Área Andina *(Finalización 2024)*.  
+- 📡 **Tecnólogo en Gestión de Redes de Datos** — SENA *(Finalizado 2018)*.  
+- 🔐 **Especialización en Seguridad Informática** — UNIR *(En curso)*.  
 
-**Certificaciones y cursos relevantes:**  
-- AWS Cloud Practitioner Essentials ✅  
-- Diplomado CyberOps — Cisco  
-- Cybersecurity & Information Security — Edutin Academy  
-- PowerShell para Administradores — LinkedIn Learning  
-- Microsoft Endpoint Configuration Manager — Udemy  
-- AWS al Completo — Udemy  
-- Desarrollador Python — Edutin Academy  
+**Certificaciones y Cursos (finalizados o en progreso):**  
+| Estado | Curso / Certificación | Plataforma / Institución | Año |
+|:--:|:--|:--|:--:|
+| ✅ | Cybersecurity & Information Security | Edutin Academy | 2024 |
+| ✅ | Diplomado CyberOps | Cisco | 2023 |
+| ✅ | Microsoft Endpoint Configuration Manager | Udemy | 2024 |
+| ✅ | PowerShell para Administradores | LinkedIn Learning | 2024 |
+| ✅ | AWS Cloud Practitioner Essentials | AWS Training | 2025 |
+| 🕓 | AWS Security Specialty (en preparación) | AWS / Udemy | 2025 |
+| 🕓 | eJPT (en preparación) | INE Security | 2025 |
+| ✅ | Desarrollador Python | Edutin Academy | 2022 |
+| ✅ | Windows Server 2019 Essential | LinkedIn Learning | 2024 |
 
 ---
 
-## 📚 Objetivos actuales
+## 📚 Objetivos Profesionales
 
-- Profundizar en **Pentesting Avanzado (eJPT → OSCP)**.  
-- Especializarme en **Detección y Respuesta (Blue Team / SOC Avanzado)**.  
-- Integrar **Wazuh + AWS + Threat Hunting** en un laboratorio Purple Team.  
-- Mejorar el nivel de inglés técnico (meta: B2).
+- Consolidar experiencia en **Blue Team / SOC Avanzado / Threat Hunting**.  
+- Certificarme en **eJPT → OSCP** para fortalecer la parte ofensiva.  
+- Especializarme en **Cloud Security y automatización de detección**.  
+- Alcanzar nivel **B2 de inglés técnico** para oportunidades internacionales.
+
+---
+
+## 📊 Estadísticas y Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esneyder-rojas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esneyder-rojas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -103,13 +120,5 @@ ISO/IEC 27001, políticas SGSI, continuidad del negocio.
 
 ## ⚠️ Aviso Ético
 
-Todo el contenido y laboratorios publicados en este perfil son realizados en **entornos controlados y con fines educativos**.  
-No se promueven actividades ilícitas ni pruebas no autorizadas.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esneyder-rojas&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esneyder-rojas&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+Todo el contenido, proyectos y laboratorios publicados son realizados en **entornos controlados y autorizados**, con fines educativos y profesionales.  
+No se promueven prácticas ilícitas ni pruebas no autorizadas en sistemas de terceros.
