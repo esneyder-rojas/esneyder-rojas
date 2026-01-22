@@ -8,7 +8,7 @@ Disfruto implementar, investigar y experimentar con entornos reales para fortale
 
 ## 🚀 Perfil Profesional
 
-Ingeniero de Sistemas con formación en **Gestión de Redes de Datos** y cursando **Especialización en Seguridad Informática**.  
+Ingeniero de Sistemas con formación en **Gestión de Redes de Datos** y **Especialista en Seguridad Informática**.  
 Cuento con experiencia en:
 
 - **Infraestructura tecnológica y redes:** servidores Windows/Linux, virtualización, respaldos, DNS, VPN, y firewalls.  
