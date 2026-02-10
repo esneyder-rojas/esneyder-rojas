@@ -39,13 +39,17 @@ Me caracterizo por combinar conocimientos de infraestructura, redes y cibersegur
 - Nessus, Metasploit
 - Burp Suite, Nmap, Nikto
 - Gophish
+- ISO 27001
+- Hardening
+- Analisis de de vulnerabilidades
 
 ### 🖥️ Infraestructura
-- Windows Server 2008/2019/2022
+- Windows Server 2008 - 2022
 - Linux: Ubuntu, Debian, CentOS
-- Active Directory, DNS, DHCP
+- Active Directory, DNS, DHCP, DFS, GPO
 - VMware, Hyper-V
-- TrueNAS, Duplicati
+- Data Protector, Veeam Backup, TrueNAS, Duplicati
+- Servidores Cisco, Dell, HP
 
 ### ☁️ Cloud
 - AWS: EC2, IAM, S3, VPC, Security Groups
@@ -56,7 +60,6 @@ Me caracterizo por combinar conocimientos de infraestructura, redes y cibersegur
 - PRTG
 - Grafana
 - ntopng
-- ELK Stack
 
 ### ⚙️ Automatización
 - PowerShell
