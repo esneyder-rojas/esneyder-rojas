@@ -162,14 +162,6 @@ Me caracterizo por combinar conocimientos de infraestructura, redes y cibersegur
 
 ---
 
-## 📫 Contacto
-
-📧 erojas.it@gmail.com  
-🔗 LinkedIn  
-🐙 GitHub  
-
----
-
 ## ⚠️ Aviso Ético
 
 Todos los proyectos y laboratorios han sido realizados en entornos controlados y autorizados con fines educativos y profesionales.  
