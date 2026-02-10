@@ -15,7 +15,7 @@ Cuento con experiencia en:
 - **Ciberseguridad corporativa:** administración de **Wazuh (SIEM)**, **Fortinet**, **pfSense**, **Kaspersky**, **ESET**, **PRTG**, **Zabbix**, **ntopng** y **Suricata**.  
 - **Gestión de vulnerabilidades:** con **Nessus** y **Metasploit Framework**, apoyando procesos de auditoría técnica y hardening.  
 - **Normativas y SGSI:** implementación de políticas alineadas con **ISO/IEC 27001**, control de accesos, continuidad del negocio y respaldos.  
-- **Cloud Security:** administración segura de entornos **AWS**, políticas IAM, y monitoreo con GuardDuty y CloudTrail.  
+- **Cloud Security:** administración segura de entornos **AWS**, políticas IAM.
 
 ---
 
@@ -40,13 +40,13 @@ Wazuh, Suricata, Fortinet, pfSense, PRTG, Zabbix, ntopng, ELK Stack.
 Metasploit Framework, Nessus, Burp Suite, Gophish, Nmap, Nikto.  
 
 **Infraestructura:**  
-Windows Server 2016/2019, Ubuntu, Debian, Hyper-V, VMware, TrueNAS, Duplicati.  
+Windows Server 2008/2019, Ubuntu, Debian, Hyper-V, VMware, TrueNAS, Duplicati.  
 
 **Automatización y scripting:**  
-PowerShell, Bash.  
+PowerShell, Bash y Pyhton.
 
 **Nube:**  
-AWS (EC2, IAM, S3, GuardDuty, CloudTrail).  
+AWS (EC2, IAM, S3, VPC).  
 
 **Normas y gestión:**  
 ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.  
@@ -65,35 +65,43 @@ ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.
   Despliegue de infraestructura segura en AWS con Terraform, monitoreo con GuardDuty y Wazuh.  
 
 - **🔒 Backup & Recovery Plan:**  
-  Automatización de respaldos y pruebas de restauración con TrueNAS y Duplicati.
+  Automatización de respaldos y pruebas de restauración con TrueNAS, Powershell y Duplicati.
 
 ---
 
 ## 🎓 Formación Académica y Certificaciones
 
 **Formación:**  
-- 🎓 **Ingeniería de Sistemas** — Fundación Universitaria del Área Andina *(Finalización 2024)*.  
-- 📡 **Tecnólogo en Gestión de Redes de Datos** — SENA *(Finalizado 2018)*.  
-- 🔐 **Especialización en Seguridad Informática** — UNIR *(En curso)*.  
+- 🔐 **Especialización en Seguridad Informática** — UNIR.  
+- 🎓 **Ingeniería de Sistemas** — Fundación Universitaria del Área Andina.
+- 📡 **Tecnólogo en Gestión de Redes de Datos** — SENA.  
 
-**Certificaciones y Cursos (finalizados o en progreso):**  
-| Estado | Curso / Certificación | Plataforma / Institución | Año |
-|:--:|:--|:--|:--:|
-| ✅ | Cybersecurity & Information Security | Edutin Academy | 2024 |
-| ✅ | Diplomado CyberOps | Cisco | 2023 |
-| ✅ | Microsoft Endpoint Configuration Manager | Udemy | 2024 |
-| ✅ | PowerShell para Administradores | LinkedIn Learning | 2024 |
-| ✅ | AWS Cloud Practitioner Essentials | AWS Training | 2025 |
-| 🕓 | AWS Security Specialty (en preparación) | AWS / Udemy | 2025 |
-| 🕓 | eJPT (en preparación) | INE Security | 2025 |
-| ✅ | Desarrollador Python | Edutin Academy | 2022 |
-| ✅ | Windows Server 2019 Essential | LinkedIn Learning | 2024 |
+**Certificaciones y Cursos **  
+Estado	Curso / Certificación	Plataforma / Institución	Año
+🕓	eJPT (en curso)	INE Security	2026
+🕓	AWS Security Specialty (en preparación)	AWS / Udemy	2025
+✅	AWS Cloud Practitioner Essentials	AWS Training & Certification	2025
+✅	Pentester Mentor Junior	Hacker Mentor / CertiProf	2025
+✅	Microsoft Endpoint Configuration Manager	Udemy	2024
+✅	PowerShell para Administradores	LinkedIn Learning	2024
+✅	Windows Server 2019 Essential	LinkedIn Learning	2024
+✅	Cybersecurity & Information Security	Edutin Academy	2024
+✅	Linux Essentials & NDG Linux Unhatched	Cisco NDG	2024
+✅	Wireless LAN Security & Mobility Fundamentals	Global Academy	2024
+✅	AWS al Completo	Udemy	2024
+✅	Curso de Introducción al Pentesting	DragonJAR	2023
+✅	Diplomado CyberOps	Cisco	2023
+✅	Desarrollador Python	Edutin Academy	2022
+✅	Administrador de Servidores	Fundación Carlos Slim	2022
+✅	Computación en la Nube	Bogotá Aprende TIC	2022
+✅	Introducción al Desarrollo Web I	Google Activate	2021
+✅	Diplomado en Java	Politécnico de Colombia	2021
 
 ---
 
 ## 📚 Objetivos Profesionales
 
-- Consolidar experiencia en **Blue Team / SOC Avanzado / Threat Hunting**.  
+- Consolidar experiencia en **Blue Team, Red Team/ SOC / Threat Hunting**.  
 - Certificarme en **eJPT → OSCP** para fortalecer la parte ofensiva.  
 - Especializarme en **Cloud Security y automatización de detección**.  
 - Alcanzar nivel **B2 de inglés técnico** para oportunidades internacionales.
