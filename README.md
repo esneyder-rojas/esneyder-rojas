@@ -1,88 +1,129 @@
-# 🛡️ Esneyder Rojas — Ciberseguridad | Pentesting | Blue Team | SIEM
+# 🛡️ Esneyder Rojas Mahecha  
+### Cybersecurity | SOC Analyst | Pentesting | Cloud & Infrastructure
 
-👋 Hola, soy **Esneyder Rojas**, Ingeniero de Sistemas de Bogotá, Colombia.  
-Apasionado por la **ciberseguridad práctica**, la **implementación de controles técnicos**, el **análisis de vulnerabilidades** y la **detección de amenazas**.  
-Disfruto implementar, investigar y experimentar con entornos reales para fortalecer mis habilidades en **seguridad ofensiva y defensiva**.
-
----
-
-## 🚀 Perfil Profesional
-
-Ingeniero de Sistemas con formación en **Gestión de Redes de Datos** y **Especialista en Seguridad Informática**.  
-Cuento con experiencia en:
-
-- **Infraestructura tecnológica y redes:** servidores Windows/Linux, virtualización, respaldos, DNS, VPN, y firewalls.  
-- **Ciberseguridad corporativa:** administración de **Wazuh (SIEM)**, **Fortinet**, **pfSense**, **Kaspersky**, **ESET**, **PRTG**, **Zabbix**, **ntopng** y **Suricata**.  
-- **Gestión de vulnerabilidades:** con **Nessus** y **Metasploit Framework**, apoyando procesos de auditoría técnica y hardening.  
-- **Normativas y SGSI:** implementación de políticas alineadas con **ISO/IEC 27001**, control de accesos, continuidad del negocio y respaldos.  
-- **Cloud Security:** administración segura de entornos **AWS**, políticas IAM.
+📍 Bogotá, Colombia  
+📧 erojas.it@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/esneyder-rojas-mahecha  
+🐙 GitHub: https://github.com/esneyder-rojas  
 
 ---
 
-## 🧠 Áreas de Especialidad
+## 👋 Sobre mí
 
-| Área | Enfoque |
-|------|----------|
-| 🔹 **Pentesting** | Pruebas de intrusión controladas (red, web, AD) con Metasploit, Nessus y DVWA. |
-| 🔹 **Blue Team** | Detección y respuesta a incidentes con Wazuh / SIEM, hardening y correlación de eventos. |
-| 🔹 **Análisis de Vulnerabilidades** | Identificación, evaluación y remediación de vulnerabilidades técnicas. |
-| 🔹 **Cloud Security** | Buenas prácticas y monitoreo en AWS, integración con Wazuh y Suricata. |
-| 🔹 **Infraestructura Segura** | Administración y protección de entornos híbridos on-premise / nube. |
+Ingeniero de Sistemas con más de 6 años de experiencia en infraestructura, soporte y seguridad de la información.  
+Especialista en Seguridad Informática, con enfoque en operaciones SOC, gestión de vulnerabilidades, pentesting junior y protección de entornos híbridos on-premise y cloud.
+
+Actualmente me encuentro fortaleciendo mis habilidades en seguridad ofensiva y defensiva mediante laboratorios prácticos, certificaciones y preparación para eJPT.
+
+Me caracterizo por combinar conocimientos de infraestructura, redes y ciberseguridad para tener una visión integral del riesgo tecnológico.
+
+---
+
+## 🎯 Áreas de Enfoque
+
+- 🔵 Blue Team / SOC: Monitoreo, análisis y respuesta a incidentes
+- 🔴 Pentesting Junior: Evaluación de seguridad en redes y aplicaciones
+- ☁️ Cloud Security: Seguridad en AWS
+- 🧱 Infraestructura Segura: Hardening y administración de servidores
+- 🕵️ Threat Detection & Vulnerability Management
 
 ---
 
 ## ⚙️ Stack Técnico
 
-**Seguridad y Monitoreo:**  
-Wazuh, Suricata, Fortinet, pfSense, PRTG, Zabbix, ntopng, ELK Stack.  
+### 🔐 Seguridad
+- Wazuh (SIEM)
+- Suricata (IDS/IPS)
+- Fortinet, pfSense
+- Kaspersky, ESET
+- Nessus, Metasploit
+- Burp Suite, Nmap, Nikto
+- Gophish
 
-**Ofensiva y Análisis:**  
-Metasploit Framework, Nessus, Burp Suite, Gophish, Nmap, Nikto.  
+### 🖥️ Infraestructura
+- Windows Server 2008/2019/2022
+- Linux: Ubuntu, Debian, CentOS
+- Active Directory, DNS, DHCP
+- VMware, Hyper-V
+- TrueNAS, Duplicati
 
-**Infraestructura:**  
-Windows Server 2008/2019, Ubuntu, Debian, Hyper-V, VMware, TrueNAS, Duplicati.  
+### ☁️ Cloud
+- AWS: EC2, IAM, S3, VPC, Security Groups
+- Configuración segura y monitoreo
 
-**Automatización y scripting:**  
-PowerShell, Bash y Pyhton.
+### 📊 Monitoreo
+- Zabbix
+- PRTG
+- Grafana
+- ntopng
+- ELK Stack
 
-**Nube:**  
-AWS (EC2, IAM, S3, VPC).  
-
-**Normas y gestión:**  
-ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.  
-
----
-
-## 🧩 Proyectos y Laboratorios Destacados
-
-- **🧱 Implementación Wazuh SIEM:**  
-  Instalación desde cero, integración de agentes Linux/Windows, reglas personalizadas y reportes de seguridad.  
-
-- **💻 DVWA Pentesting Lab:**  
-  Laboratorio de explotación controlada (SQLi, XSS, brute force) con documentación de hallazgos y mitigaciones.  
-
-- **☁️ AWS Secure Lab:**  
-  Despliegue de infraestructura segura en AWS con Terraform, monitoreo con GuardDuty y Wazuh.  
-
-- **🔒 Backup & Recovery Plan:**  
-  Automatización de respaldos y pruebas de restauración con TrueNAS, Powershell y Duplicati.
+### ⚙️ Automatización
+- PowerShell
+- Bash
+- Python (automatización básica)
 
 ---
 
-## 🎓 Formación Académica y Certificaciones
+## 🧪 Laboratorios y Práctica Continua
 
-**Formación:**  
-- 🔐 **Especialización en Seguridad Informática** — UNIR.  
-- 🎓 **Ingeniería de Sistemas** — Fundación Universitaria del Área Andina.
-- 📡 **Tecnólogo en Gestión de Redes de Datos** — SENA.  
+### 🛠️ Plataformas
+- TryHackMe (Pentesting, Blue Team, SOC Paths)
+- Hack The Box (labs prácticos)
+- Blue Team Labs Online
 
-**Certificaciones y Cursos **  
+### 🏠 Home Lab
+- Active Directory
+- Wazuh SIEM
+- Firewall pfSense / FortiGate
+- Servidores Linux / Windows
+- Simulación de ataques y respuesta
+
+### 🔍 Prácticas realizadas
+- Escaneo de vulnerabilidades
+- Análisis de logs
+- Simulación de phishing
+- Detección de intrusiones
+- Hardening de servidores
+- Análisis de malware básico
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🔹 Implementación SIEM con Wazuh
+- Integración de agentes Windows/Linux
+- Reglas personalizadas
+- Correlación de eventos
+- Reportes de seguridad
+
+### 🔹 Laboratorio de Pentesting (DVWA)
+- SQL Injection
+- XSS
+- Brute Force
+- Documentación y mitigación
+
+### 🔹 AWS Secure Lab
+- Despliegue de EC2
+- Configuración IAM
+- Monitoreo con Wazuh
+- Seguridad en red
+
+### 🔹 Backup & Recovery
+- Automatización con TrueNAS y Duplicati
+- Pruebas de restauración
+- Documentación
+
+---
+
+## 📜 Certificaciones y Cursos
+
 | Estado | Curso / Certificación | Plataforma / Institución | Año |
 |:--:|:--|:--|:--:|
 | 🕓 | eJPT (en curso) | INE Security | 2026 |
-| 🕓 | AWS Security Specialty (en curso) | AWS / Udemy | 2025 |
-| ✅ | Pentester Mentor Junior | Hacker Mentor / CertiProf | 2025 |
+| 🕓 | AWS Security Specialty (en preparación) | AWS / Udemy | 2025 |
 | ✅ | AWS Cloud Practitioner Essentials | AWS Training & Certification | 2025 |
+| ✅ | Pentester Mentor Junior | Hacker Mentor / CertiProf | 2025 |
 | ✅ | Microsoft Endpoint Configuration Manager | Udemy | 2024 |
 | ✅ | PowerShell para Administradores | LinkedIn Learning | 2024 |
 | ✅ | Windows Server 2019 Essential | LinkedIn Learning | 2024 |
@@ -100,34 +141,33 @@ ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.
 
 ---
 
-## 📚 Objetivos Profesionales
+## 🎓 Formación Académica
 
-- Consolidar experiencia en **Blue Team, Red Team/ SOC / Threat Hunting**.  
-- Certificarme en **eJPT → OSCP** para fortalecer la parte ofensiva.  
-- Especializarme en **Cloud Security y automatización de detección**.  
-- Alcanzar nivel **B2 de inglés técnico** para oportunidades internacionales.
+- 🎓 Especialización en Seguridad Informática — UNIR
+- 🎓 Ingeniería de Sistemas — Fundación Universitaria del Área Andina
+- 🎓 Tecnólogo en Gestión de Redes de Datos — SENA
 
 ---
 
-## 📊 Estadísticas y Actividad
+## 📚 Objetivos Profesionales
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esneyder-rojas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esneyder-rojas&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- Consolidarme en roles de Blue Team y SOC, fortaleciendo capacidades en detección, análisis y respuesta a incidentes.
+- Desarrollar una carrera sólida en Red Team y Pentesting, avanzando desde eJPT hacia certificaciones de mayor nivel como OSCP.
+- Especializarme en seguridad ofensiva y defensiva en entornos on-premise y cloud.
+- Profundizar en automatización de procesos de seguridad mediante scripting.
+- Fortalecer mi nivel de inglés técnico hasta alcanzar un nivel B2 para entornos internacionales.
 
 ---
 
 ## 📫 Contacto
 
-📧 **erojas.it@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/esneyder-rojas-mahecha)  
-🐙 [GitHub](https://github.com/esneyder-rojas)
+📧 erojas.it@gmail.com  
+🔗 LinkedIn  
+🐙 GitHub  
 
 ---
 
 ## ⚠️ Aviso Ético
 
-Todo el contenido, proyectos y laboratorios publicados son realizados en **entornos controlados y autorizados**, con fines educativos y profesionales.  
-No se promueven prácticas ilícitas ni pruebas no autorizadas en sistemas de terceros.
+Todos los proyectos y laboratorios han sido realizados en entornos controlados y autorizados con fines educativos y profesionales.  
+No se realizan pruebas no autorizadas en sistemas de terceros.
