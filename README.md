@@ -77,25 +77,26 @@ ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.
 - 📡 **Tecnólogo en Gestión de Redes de Datos** — SENA.  
 
 **Certificaciones y Cursos **  
-Estado	Curso / Certificación	Plataforma / Institución	Año
-🕓	eJPT (en curso)	INE Security	2026
-🕓	AWS Security Specialty (en preparación)	AWS / Udemy	2025
-✅	AWS Cloud Practitioner Essentials	AWS Training & Certification	2025
-✅	Pentester Mentor Junior	Hacker Mentor / CertiProf	2025
-✅	Microsoft Endpoint Configuration Manager	Udemy	2024
-✅	PowerShell para Administradores	LinkedIn Learning	2024
-✅	Windows Server 2019 Essential	LinkedIn Learning	2024
-✅	Cybersecurity & Information Security	Edutin Academy	2024
-✅	Linux Essentials & NDG Linux Unhatched	Cisco NDG	2024
-✅	Wireless LAN Security & Mobility Fundamentals	Global Academy	2024
-✅	AWS al Completo	Udemy	2024
-✅	Curso de Introducción al Pentesting	DragonJAR	2023
-✅	Diplomado CyberOps	Cisco	2023
-✅	Desarrollador Python	Edutin Academy	2022
-✅	Administrador de Servidores	Fundación Carlos Slim	2022
-✅	Computación en la Nube	Bogotá Aprende TIC	2022
-✅	Introducción al Desarrollo Web I	Google Activate	2021
-✅	Diplomado en Java	Politécnico de Colombia	2021
+| Estado | Curso / Certificación | Plataforma / Institución | Año |
+|:--:|:--|:--|:--:|
+| 🕓 | eJPT (en curso) | INE Security | 2026 |
+| 🕓 | AWS Security Specialty (en preparación) | AWS / Udemy | 2025 |
+| ✅ | AWS Cloud Practitioner Essentials | AWS Training & Certification | 2025 |
+| ✅ | Pentester Mentor Junior | Hacker Mentor / CertiProf | 2025 |
+| ✅ | Microsoft Endpoint Configuration Manager | Udemy | 2024 |
+| ✅ | PowerShell para Administradores | LinkedIn Learning | 2024 |
+| ✅ | Windows Server 2019 Essential | LinkedIn Learning | 2024 |
+| ✅ | Cybersecurity & Information Security | Edutin Academy | 2024 |
+| ✅ | Linux Essentials & NDG Linux Unhatched | Cisco NDG | 2024 |
+| ✅ | Wireless LAN Security & Mobility Fundamentals | Global Academy | 2024 |
+| ✅ | AWS al Completo | Udemy | 2024 |
+| ✅ | Introducción al Pentesting | DragonJAR | 2023 |
+| ✅ | Diplomado CyberOps | Cisco | 2023 |
+| ✅ | Desarrollador Python | Edutin Academy | 2022 |
+| ✅ | Administrador de Servidores | Fundación Carlos Slim | 2022 |
+| ✅ | Computación en la Nube | Bogotá Aprende TIC | 2022 |
+| ✅ | Introducción al Desarrollo Web I | Google Activate | 2021 |
+| ✅ | Diplomado en Java | Politécnico de Colombia | 2021 |
 
 ---
 
