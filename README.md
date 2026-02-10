@@ -80,9 +80,9 @@ ISO/IEC 27001, SGSI, políticas de acceso, continuidad del negocio.
 | Estado | Curso / Certificación | Plataforma / Institución | Año |
 |:--:|:--|:--|:--:|
 | 🕓 | eJPT (en curso) | INE Security | 2026 |
-| 🕓 | AWS Security Specialty (en preparación) | AWS / Udemy | 2025 |
-| ✅ | AWS Cloud Practitioner Essentials | AWS Training & Certification | 2025 |
+| 🕓 | AWS Security Specialty (en curso) | AWS / Udemy | 2025 |
 | ✅ | Pentester Mentor Junior | Hacker Mentor / CertiProf | 2025 |
+| ✅ | AWS Cloud Practitioner Essentials | AWS Training & Certification | 2025 |
 | ✅ | Microsoft Endpoint Configuration Manager | Udemy | 2024 |
 | ✅ | PowerShell para Administradores | LinkedIn Learning | 2024 |
 | ✅ | Windows Server 2019 Essential | LinkedIn Learning | 2024 |
